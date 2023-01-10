@@ -21,6 +21,7 @@
 title: >-
     KareRaichu's
     DevBlog
+brand_title: Kareraichu
 email: harleybird@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   카레라이츄의 게임개발 공부 블로그
@@ -35,8 +36,6 @@ github_username:  KareRCH
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
