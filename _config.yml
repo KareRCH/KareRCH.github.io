@@ -34,6 +34,13 @@ github_username:  KareRCH
 theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
 
 # Exclude from processing.
 # The following items will not be processed, by default.
