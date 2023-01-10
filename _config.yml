@@ -25,14 +25,13 @@ email: harleybird@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   카레라이츄의 게임개발 공부 블로그
 author: KareRaichu
-baseurl: "https://karerch.github.io/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://karerch.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  KareRCH
 
 # Build settings
-#theme: jekyll-theme-clean-blog
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
